@@ -1,2 +1,2 @@
 #!/bin/bash
-find * -/tmp/u -f "[[upper]]" | sort -o isSoCool Best
+find [[upper]]* /tmp/u
