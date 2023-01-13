@@ -1,2 +1,2 @@
 #!/bin/bash
-find * -/tmp/u -d "[[upper]]"
+find * -/tmp/u -d "[[upper]]" | mv 
