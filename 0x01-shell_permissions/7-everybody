@@ -1,2 +1,2 @@
 #!/bin/bash
-chnod -R a+x hello
+chnod  A+x -R hello
