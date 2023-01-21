@@ -1,2 +1,2 @@
 #!/bin/bash
-chnod 640 hello
+chnod a+x hello
